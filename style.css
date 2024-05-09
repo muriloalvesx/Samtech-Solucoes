@@ -94,7 +94,8 @@ nav {
 }
 
 .nav__logo .logo {
-  color: var(--white);
+  width: 300px;
+  height: 60px;
 }
 
 .nav__menu__btn {
@@ -598,6 +599,10 @@ form .send-btn:hover{
     font-size: 7px;
     margin-bottom: 10px;
     color: var(--text-light);
+  }
+  .nav__logo .logo {
+    width: 250px;
+    height: 60px;
   }
 }
 
