@@ -28,7 +28,31 @@ ScrollReveal().reveal(".header__content .section__subheader", {
   ...scrollRevealOption,
   delay: 150,
 });
+ScrollReveal().reveal(".section__header2", {
+  ...scrollRevealOption,
+  delay: 150,
+});
+ScrollReveal().reveal(".contact .section__header", {
+  ...scrollRevealOption,
+  delay: 150,
+});
+ScrollReveal().reveal(".section__header3", {
+  ...scrollRevealOption,
+  delay: 150,
+});
+ScrollReveal().reveal("Q.footer__container", {
+  ...scrollRevealOption,
+  delay: 150,
+});
+ScrollReveal().reveal(".section__header3", {
+  ...scrollRevealOption,
+  delay: 150,
+});
 ScrollReveal().reveal(".security__image", {
+  ...scrollRevealOption,
+  delay: 300,
+});
+ScrollReveal().reveal(".contact .contact-form", {
   ...scrollRevealOption,
   delay: 300,
 });
@@ -64,6 +88,10 @@ ScrollReveal().reveal(".trip__content .section__subheader", {
   delay: 500,
 });
 ScrollReveal().reveal(".trip__content .section__header", {
+  ...scrollRevealOption,
+  delay: 500,
+});
+ScrollReveal().reveal(".trip__content .section__header2", {
   ...scrollRevealOption,
   delay: 500,
 });
