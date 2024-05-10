@@ -604,6 +604,13 @@ form .send-btn:hover{
     width: 250px;
     height: 60px;
   }
+  .section__subheader{
+    margin-bottom: 18px;
+  }
+  .header__image h1{
+    line-height: 70px;
+    font-size: 60px;
+  }
 }
 
 @media (width > 540px) {
