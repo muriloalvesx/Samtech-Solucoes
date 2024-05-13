@@ -617,7 +617,7 @@ form .send-btn:hover{
     color: var(--text-light);
   }
   .nav__logo .logo {
-    margin-left: -100px;
+    margin-left: -80px;
     width: 250px;
     height: 60px;
   }
