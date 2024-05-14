@@ -106,7 +106,8 @@ nav {
 
 .nav__logo .logo {
   margin-left: 100px;
- height: 60px;
+  width: 200px;
+  height: 60px;
 }
 
 .nav__menu__btn {
