@@ -455,8 +455,8 @@ nav {
 }
 
 .footer__container {
-  margin-right: 300px;
-  margin-left: 300px;
+  margin-right: 250px;
+  margin-left: 250px;
   display: grid;
   gap: 2rem;
 }
