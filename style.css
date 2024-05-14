@@ -455,8 +455,8 @@ nav {
 }
 
 .footer__container {
-  margin-right: 200px;
-  margin-left: 200px;
+  margin-right: 300px;
+  margin-left: 300px;
   display: grid;
   gap: 2rem;
 }
@@ -635,6 +635,10 @@ form .send-btn:hover{
     line-height: 70px;
     font-size: 60px;
   }
+  .footer__container {
+  margin-right: 20px;
+  margin-left: 20px;
+}
   .footer__col{
     margin-left: none;
     margin-right: 70px;
