@@ -455,8 +455,11 @@ nav {
 }
 
 .footer__container {
+  margin-right: 200px;
+  margin-left: 200px;
   display: grid;
   gap: 2rem;
+}
 }
 
 .footer__col{
