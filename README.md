@@ -1,6 +1,6 @@
-## Samtech Soluções - Landing Page Frrelance 🖥️
+## Samtech Soluções - Landing Page Freelance 🖥️
 
-Landing Page da empresa Samtech Soluções.
+Landing Page para a empresa Samtech Soluções.
 
 ### Tecnologias Utilizadas
 
