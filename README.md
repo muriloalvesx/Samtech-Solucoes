@@ -12,5 +12,5 @@ Landing Page da empresa Samtech Soluções.
 
 <div style="display: flex"><br/>
 <img align="center" alt="samtech1"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/ff4a29d8-2f55-4a14-b9e3-9c7e3d542603)" width="413px"/>
-<img align="center" alt="samtech2"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/92c5c415-c436-4010-a2a2-ff47c86f2308" width="407px"/>
+<img align="center" alt="samtech2"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/92c5c415-c436-4010-a2a2-ff47c86f2308" width="405px"/>
 </div><br/>
